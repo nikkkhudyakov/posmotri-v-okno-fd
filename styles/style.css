@@ -137,7 +137,6 @@ ol {
   font-size: inherit;
   width: 225px;
   height: 27px;
-  appearance: none;
 }
 
 .search-form__textfield:focus {
